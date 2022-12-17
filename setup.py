@@ -1,5 +1,6 @@
 """Setup the package."""
-from distutils.core import setup
+# from distutils.core import setup
+from setuptools import setup
 
 """
 setup(
@@ -30,5 +31,11 @@ setup(
     packages=[''],
 )
 """
-
-setup(name="foobar", version="1.0", packages=["foobar"])
+"""
+setup(
+    name="foobar",
+    version="1.0",
+    packages=["foobar"]
+)
+"""
+setup()
