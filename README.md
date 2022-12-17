@@ -21,13 +21,3 @@ In addition to specifying a build system, you also will need to add some package
 
 -   [project](./project.md)
 -   [package](./package.md)
-
-
-Normally, you would specify the packages to be included manually in the following manner:
-
-
-
-# References
-https://stackoverflow.com/questions/2429511/why-do-people-write-usr-bin-env-python-on-the-first-line-of-a-python-script
-
-https://stackoverflow.com/questions/1471994/what-is-setup-py
